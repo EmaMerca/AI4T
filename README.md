@@ -1,3 +1,3 @@
 # AI4T
 
-Homeworks and project for the Artificial intelligence for trading course
+Homeworks for the Artificial intelligence for trading course
